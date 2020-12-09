@@ -155,7 +155,7 @@ h1{
 }
 .banner{
     height: 80vh;
-    background-image: url(./img/img8.jpeg);
+    background-image: url(./img8.jpeg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
